@@ -6,7 +6,6 @@ Skeleton for example  web app structure
 <pre>
 .
 ├── Bootstrap.php
-├── index.php
 ├── LICENSE
 ├── phpunit.xml
 ├── README.md
@@ -16,6 +15,7 @@ Skeleton for example  web app structure
 │   │       └── ExampleClass.php
 │   └── public
 │       ├── bin
+│       ├── index.php
 │       ├── script
 │       │   └── main.js
 │       └── style

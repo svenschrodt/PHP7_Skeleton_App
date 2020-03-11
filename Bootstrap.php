@@ -14,6 +14,10 @@
 define('PW_NS', '\\ProjectName');
 define('PW_LIB_DIR', 'ProjectName');
 
+// Change cwd to location of this file
+chdir(dirname(__FILE__));
+
+
 /**
  * Auto loading for project classes 
  */
